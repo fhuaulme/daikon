@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.talend.daikon</groupId>
-	<artifactId>daikon-parent</artifactId>
+	<artifactId>daikon-service</artifactId>
 	<version>0.3.0.BUILD-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
@@ -27,6 +27,7 @@
 	<modules>
 		<module>daikon</module>
 		<module>daikon-spring</module>
+		<module>daikon-service</module>
 	</modules>
 	<distributionManagement>
 		<snapshotRepository>
